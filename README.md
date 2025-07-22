@@ -49,7 +49,7 @@ Ensure the following are installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Karishma08shaik/Digital-Grocery-Store.git
+git clone https://github.com/ShaikAfrozah/Digital-Grocery-Store.git
 cd digital-grocery-store-app
 ```
 
